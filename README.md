@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Amit</h1>
+         width="45" />, This is Amit!!</h1>
 <h5 align="center">
 I’m a Senior Software Engineer at Samsung R&D, Bangalore. I have completed M-Tech on August 2021 in Computer Science & Engineering from National Institute Of Technology, Goa. I have great passion in developing software and bringing unique ideas to life. I am constantly working on something new. Can you guess what I am building now??🤩
 </h5>
