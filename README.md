@@ -7,10 +7,11 @@ I’m a Senior Software Engineer at Samsung R&D, Bangalore. I have completed M-T
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-banerjee-03&label=Profile%20views&color=0e75b6&style=flat" alt="amit-banerjee-03" /> </p>
 <p>
-<a align= "center" href="https://github.com/amit-banerjee-03">
+<a align= "center" href="https://github.com/amit-banerjee-03">      
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-banerjee-03&theme=radical">
 <!--<img align="right" height="400" width="450" src="https://github.com/amit-banerjee-03/amit-banerjee-03/blob/main/Mgp.gif" />-->
-         <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
+         <!--<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />-->
+         <img align="right" height="350" width="400" src="https://github.com/amit-banerjee-03/amit-banerjee-03/blob/main/developer.gif" />
 </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=amit-banerjee-03&count_private=true&theme=radical&show_icons=true" />
