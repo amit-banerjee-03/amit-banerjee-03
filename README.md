@@ -3,7 +3,7 @@
          height="45"
          width="45" />, This is Amit!!</h1>
 <h5 align="center">
-I’m a Senior Software Engineer at Samsung R&D, Bangalore. I have completed M-Tech on August 2021 in Computer Science & Engineering from National Institute Of Technology, Goa. I have great passion in developing software and bringing unique ideas to life. I am constantly working on something new. Can you guess what I am building now??🤩
+I’m a Senior Software Engineer at Samsung R&D, Bangalore. I have done Masters in Computer Science & Engineering from National Institute Of Technology, Goa. I have great passion in developing software and bringing unique ideas to life. I am constantly working on something new. Can you guess what I am building now??🤩
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-banerjee-03&label=Profile%20views&color=0e75b6&style=flat" alt="amit-banerjee-03" /> </p>
 <p>
