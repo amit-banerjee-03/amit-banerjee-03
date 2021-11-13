@@ -37,4 +37,4 @@ I’m a Senior Software Engineer at Samsung R&D, Bangalore. I have done Masters 
 
 <hr>
 
-![snake gif](https://github.com/amit-banerjee-03/amit-banerjee-03/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/amit-banerjee-03/amit-banerjee-03/blob/output/github-contribution-grid-snake.gif)-->
